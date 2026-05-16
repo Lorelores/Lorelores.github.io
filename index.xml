@@ -15,5 +15,12 @@
       <guid>https://Lorelores.github.io/posts/pirmas-postas/</guid>
       <description>&lt;p&gt;Sukūriau pirmą Hugo puslapį!&lt;/p&gt;&#xA;&lt;p&gt;Todėl noriu pasidžiaugti ir parodyti nuostabų jodinėjimo treniruočių partnerį- Baltazarą:&lt;/p&gt;&#xA;&lt;img src=&#34;https://Lorelores.github.io/img/baltazaras.png&#34; width=&#34;400&#34;&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>https://Lorelores.github.io/lokacija/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Lorelores.github.io/lokacija/</guid>
+      <description>&lt;p&gt;@&#39;&#xA;+++&#xA;date = &amp;lsquo;2026-05-17&amp;rsquo;&#xA;draft = false&#xA;title = &amp;lsquo;Lokacija&amp;rsquo;&#xA;+++&lt;/p&gt;&#xA;&lt;p&gt;Žeimos ūkis &amp;ldquo;Sapnuok avį&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Petruliškės, 15234 Vilniaus r. sav.&lt;/p&gt;&#xA;&lt;p&gt;Veiklos&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Jodinėjimo treniruotės&lt;/li&gt;&#xA;&lt;li&gt;Vasaros vaikų stovyklos&lt;/li&gt;&#xA;&lt;li&gt;Gera atmosfera visais metų laikais&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;img src=&#34;https://Lorelores.github.io/img/sapnuokavi.png&#34; width=&#34;400&#34;&gt;&#xA;&#39;@ | Set-Content -Encoding UTF8 content\lokacija.md</description>
+    </item>
   </channel>
 </rss>
