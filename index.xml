@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Loreta Stefanovic</title>
+    <title>Pajuskite laisvę su žirgais</title>
     <link>https://Lorelores.github.io/</link>
-    <description>Recent content on Loreta Stefanovic</description>
+    <description>Recent content on Pajuskite laisvę su žirgais</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://Lorelores.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lokacija</title>
+      <link>https://Lorelores.github.io/lokacija/</link>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://Lorelores.github.io/lokacija/</guid>
+      <description>&lt;p&gt;Šeimos ūkis &amp;ldquo;Sapnuok avį&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Petruliškės, 15234 Vilniaus r. sav.&lt;/p&gt;&#xA;&lt;p&gt;Veiklos&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Jodinėjimo treniruotės&lt;/li&gt;&#xA;&lt;li&gt;Vasaros vaikų stovyklos&lt;/li&gt;&#xA;&lt;li&gt;Gera atmosfera visais metų laikais&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;img src=&#34;https://Lorelores.github.io/img/sapnuokavi.png&#34; width=&#34;400&#34;&gt;</description>
+    </item>
+    <item>
+      <title>Žirgai</title>
+      <link>https://Lorelores.github.io/kiti-zirgai/</link>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://Lorelores.github.io/kiti-zirgai/</guid>
+      <description>&lt;p&gt;Kviečiu susipažinti ir su kitais žirgais !&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Diamond Star&lt;/p&gt;&#xA;&lt;p&gt;Sportinė kumelė.&lt;/p&gt;&#xA;&lt;img src=&#34;https://Lorelores.github.io/img/diamondstar.png&#34; width=&#34;400&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Bijūnas&lt;/p&gt;&#xA;&lt;p&gt;Arklidžių bosas.&lt;/p&gt;&#xA;&lt;img src=&#34;https://Lorelores.github.io/img/bijunas.png&#34; width=&#34;400&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Vanesa&lt;/p&gt;&#xA;&lt;p&gt;Mėgsta duoną ir avižas.&lt;/p&gt;&#xA;&lt;img src=&#34;https://Lorelores.github.io/img/vanesa.png&#34; width=&#34;400&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Antares&lt;/p&gt;&#xA;&lt;p&gt;Morkų policija.&lt;/p&gt;&#xA;&lt;img src=&#34;https://Lorelores.github.io/img/antares.png&#34; width=&#34;400&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Daugiau žirgų galite rasti ūkyje „Sapnuok avį“.&lt;/p&gt;&#xA;&lt;img src=&#34;https://Lorelores.github.io/img/sapnuokavi.png&#34; width=&#34;400&#34;&gt;</description>
+    </item>
     <item>
       <title>Pirmas Postas</title>
       <link>https://Lorelores.github.io/posts/pirmas-postas/</link>
       <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
       <guid>https://Lorelores.github.io/posts/pirmas-postas/</guid>
       <description>&lt;p&gt;Sukūriau pirmą Hugo puslapį!&lt;/p&gt;&#xA;&lt;p&gt;Todėl noriu pasidžiaugti ir parodyti nuostabų jodinėjimo treniruočių partnerį- Baltazarą:&lt;/p&gt;&#xA;&lt;img src=&#34;https://Lorelores.github.io/img/baltazaras.png&#34; width=&#34;400&#34;&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://Lorelores.github.io/lokacija/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Lorelores.github.io/lokacija/</guid>
-      <description>&lt;p&gt;@&#39;&#xA;+++&#xA;date = &amp;lsquo;2026-05-17&amp;rsquo;&#xA;draft = false&#xA;title = &amp;lsquo;Lokacija&amp;rsquo;&#xA;+++&lt;/p&gt;&#xA;&lt;p&gt;Žeimos ūkis &amp;ldquo;Sapnuok avį&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Petruliškės, 15234 Vilniaus r. sav.&lt;/p&gt;&#xA;&lt;p&gt;Veiklos&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Jodinėjimo treniruotės&lt;/li&gt;&#xA;&lt;li&gt;Vasaros vaikų stovyklos&lt;/li&gt;&#xA;&lt;li&gt;Gera atmosfera visais metų laikais&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;img src=&#34;https://Lorelores.github.io/img/sapnuokavi.png&#34; width=&#34;400&#34;&gt;&#xA;&#39;@ | Set-Content -Encoding UTF8 content\lokacija.md</description>
     </item>
   </channel>
 </rss>
